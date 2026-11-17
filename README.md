@@ -4,7 +4,9 @@ I'm an AI Engineer passionate about building intelligent applications using Mach
 
 ## 🌐 Socials:
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hussein-b53ba7380/)
+
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefsalem542@gmail.com)
 
